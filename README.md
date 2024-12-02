@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mindfool
 - 👀 I’m interested in <>
-- 🌱 I’m currently learning c.
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 you can't reach me?
 
