@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mindfool
 - 👀 I’m interested in machine learning and  artificial intelligence.
 - 🌱 I’m currently learning deep learning.
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ I’m looking to collaborate on ai, ml or dl projects.
 - 📫 you can't reach me?
 
 <!---
