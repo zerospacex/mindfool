@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mindfool
-- 👀 I’m interested in <>
-- 🌱 I’m currently learning java.
+- 👀 I’m interested in machine learning and  artificial intelligence.
+- 🌱 I’m currently learning deep learning.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 you can't reach me?
 
